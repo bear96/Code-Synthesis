@@ -1,0 +1,1 @@
+{"batch_size": 8, "epoch_size": 5, "learning_rate": 0.0001, "nl_seq_len": 20, "code_seq_len": 150, "pretrained": "codegpt", "log_step": 1, "pl_task": "sql", "data_size": null, "resume_epoch": 7, "mode": "test"}
